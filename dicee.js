@@ -23,15 +23,15 @@ if(a===5){
 }
 function b1(){
     if(b===1){
-        document.getElementById("2").setAttribute("src","/images/dice1.png");
+        document.getElementById("2").setAttribute("src","images/dice1.png");
     }if(b===2){
-        document.getElementById("2").setAttribute("src","/images/dice2.png");
+        document.getElementById("2").setAttribute("src","images/dice2.png");
     }if(b===3){
-        document.getElementById("2").setAttribute("src","/images/dice3.png");
+        document.getElementById("2").setAttribute("src","images/dice3.png");
     }if(b===4){
-        document.getElementById("2").setAttribute("src","/images/dice4.png");
+        document.getElementById("2").setAttribute("src","images/dice4.png");
     }if(b===5){
-        document.getElementById("2").setAttribute("src","/images/dice5.png");
+        document.getElementById("2").setAttribute("src","images/dice5.png");
     }
 }
 a1();
