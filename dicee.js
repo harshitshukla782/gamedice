@@ -6,19 +6,19 @@ b=b*6;
 b=(Math.floor(b))+1;
 function a1(){
 if(a===1){
-    document.getElementById("1").setAttribute("src","/images/dice1.png");
+    document.getElementById("1").setAttribute("src","images/dice1.png");
 }
 if(a===2){
-    document.getElementById("1").setAttribute("src","/images/dice2.png");
+    document.getElementById("1").setAttribute("src","images/dice2.png");
 }
 if(a===3){
-    document.getElementById("1").setAttribute("src","/images/dice3.png");
+    document.getElementById("1").setAttribute("src","images/dice3.png");
 }
 if(a===4){
-    document.getElementById("1").setAttribute("src","/images/dice4.png");
+    document.getElementById("1").setAttribute("src","images/dice4.png");
 }
 if(a===5){
-    document.getElementById("1").setAttribute("src","/images/dice5.png");
+    document.getElementById("1").setAttribute("src","images/dice5.png");
 }
 }
 function b1(){
